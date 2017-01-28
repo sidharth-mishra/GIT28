@@ -7,6 +7,8 @@
 	<artifactId>service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
+	
+	<!-- New Changes In local -->
 
 	<name>SimpleBoot28</name>
 	<description>Demo project for Spring Boot</description>
